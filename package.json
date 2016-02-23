@@ -1,0 +1,39 @@
+{
+  "name": "css-matrix",
+  "version": "1.0.0",
+  "description": "CSS 2D Matrix transformation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanTkachenko/css-matrix.git"
+  },
+  "keywords": [
+    "css",
+    "matrix",
+    "2d",
+    "transform",
+    "rotate",
+    "scale",
+    "zoom"
+  ],
+  "author": "Bohdan Tkachenko <bohdan@tkachenko.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BohdanTkachenko/css-matrix/issues"
+  },
+  "homepage": "https://github.com/BohdanTkachenko/css-matrix#readme",
+  "dependencies": {
+    "mathjs": "^2.7.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-eslint": "^4.1.1",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^5.0.1"
+  }
+}
