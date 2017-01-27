@@ -1,5 +1,7 @@
 # css-matrix
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BohdanTkachenko/css-matrix.svg)](https://greenkeeper.io/)
+
 ## Example
 ```js
 import { CSSMatrix } from 'css-matrix';
